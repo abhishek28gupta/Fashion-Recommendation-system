@@ -42,6 +42,9 @@ from ResNet50. More additional layers are added in the last layers that replace 
 weights from ResNet50 in order to fine-tune the network model to serve the current issue. The figure
  shows the ResNet50 architecture.
 
+ ![image](https://github.com/user-attachments/assets/76d4fd34-0f7a-4ebb-8727-e4751fb9e87d)
+
+
 ## Getting the inventory
 
 The images from Kaggle Fashion Product Images Dataset. The 

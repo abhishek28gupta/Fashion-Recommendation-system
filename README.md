@@ -48,6 +48,9 @@ The images from Kaggle Fashion Product Images Dataset. The
 inventory is then run through the neural networks to classify and generate embeddings and the output 
 is then used to generate recommendations. The Figure shows a sample set of inventory data
 
+![image](https://github.com/user-attachments/assets/b0a985de-341c-492b-ac12-6af91832036a)
+
+
 ## Recommendation generation
 
 To generate recommendations, our proposed approach uses Sklearn Nearest neighbours Oh Yeah. This allows us to find the nearest neighbours for the 

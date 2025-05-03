@@ -124,3 +124,10 @@ fashion image from any E-commerce website and later generating similar images to
 based on the features and texture of the input image. It is imperative that such research goes forward 
 to facilitate greater recommendation accuracy and improve the overall experience of fashion 
 exploration for direct and indirect consumers alike.
+
+## 👥 Contributors
+
+- Abhishek Gupta (500107872)
+- Manvee Singh (500107588)
+- Yash Tripathi (500109425)
+

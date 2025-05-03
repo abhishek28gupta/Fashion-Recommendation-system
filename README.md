@@ -33,6 +33,8 @@ an inventory is selected for generating recommendations and a database is create
 inventory. The nearest neighbour’s algorithm is used to find the most relevant products based on the 
 input image and recommendations are generated.
 
+![image](https://github.com/user-attachments/assets/be790dd6-4cdf-4865-a793-b4753547a8c9)
+
 ## Training the neural networks
 
 Once the data is pre-processed, the neural networks are trained, utilizing transfer learning 

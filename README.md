@@ -128,6 +128,4 @@ exploration for direct and indirect consumers alike.
 ## 👥 Contributors
 
 - Abhishek Gupta (500107872)
-- Manvee Singh (500107588)
-- Yash Tripathi (500109425)
 
